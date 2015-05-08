@@ -56,7 +56,7 @@ namespace hihocoder
             int curnewindex = 0;
             while (true)
             {
-                nexpos = upperSource.IndexOf(upperOldValue, curpos, StringComparison.CurrentCultureIgnoreCase);
+                nexpos = upperSource.IndexOf(upperOldValue, curpos);
                 if (nexpos < 0)
                 {
                     break;
