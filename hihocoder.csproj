@@ -44,6 +44,7 @@
     <Compile Include="NimGame.cs" />
     <Compile Include="Problem1039.cs" />
     <Compile Include="Problem1051.cs" />
+    <Compile Include="Problem1094.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

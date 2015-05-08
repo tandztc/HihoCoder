@@ -10,7 +10,7 @@ namespace hihocoder
     {
         static void Main(string[] args)
         {
-            NimGame.MyMain(args);
+            Problem1094.MyMain(args);
             Console.ReadKey();
         }
     }
