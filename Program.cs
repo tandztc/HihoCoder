@@ -10,7 +10,7 @@ namespace hihocoder
     {
         static void Main(string[] args)
         {
-            Problem1082.MyMain(args);
+            Problem1121.MyMain(args);
             Console.ReadKey();
         }
     }
