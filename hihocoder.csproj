@@ -50,6 +50,7 @@
     <Compile Include="Problem1122.cs" />
     <Compile Include="Problem1127.cs" />
     <Compile Include="Problem1135.cs" />
+    <Compile Include="Problem1137.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
